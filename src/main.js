@@ -11,6 +11,7 @@ import './mock'
 
 import bootstrap from "@/core/bootstrap";
 import './core/lazy_use'
+import './global.less'
 
 Vue.use(VueAxios)
 
