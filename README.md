@@ -1,24 +1,16 @@
 # atd-lite
 
-## Project setup
-```
-yarn install
-```
+一个基于atd-pro-vue的基础脚手架
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+目前包含:
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- vuex
+- vue-router
+- axios
+- ant-design-vue (按需加载)
+- mock
 
-### Lints and fixes files
-```
-yarn lint
-```
+已完成配置：
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- axios的基础设置和全局和实例$http绑定
+- mock的基础设置
