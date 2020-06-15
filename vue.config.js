@@ -17,7 +17,7 @@ const vueConfiguration = {
 
   devServer: {
     // development server port 8000
-    port: 8000
+    port: 11451
   },
 }
 
